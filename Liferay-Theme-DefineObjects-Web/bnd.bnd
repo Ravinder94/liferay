@@ -1,0 +1,4 @@
+Bundle-Name: Liferay-Theme-DefineObjects-Web
+Bundle-SymbolicName: com.softwaresavvyblog
+Bundle-Version: 1.0.0
+Export-Package: com.softwaresavvyblog.constants
