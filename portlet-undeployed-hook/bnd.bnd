@@ -1,0 +1,4 @@
+Bundle-Name: portlet-undeployed-hook
+Bundle-SymbolicName: portlet.undeployed.hook
+Bundle-Version: 1.0.0
+Export-Package: portlet.undeployed.hook.constants
