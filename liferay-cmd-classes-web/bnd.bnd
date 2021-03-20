@@ -1,0 +1,4 @@
+Bundle-Name: liferay-cmd-classes-web
+Bundle-SymbolicName: com.softwaresavvyblog.command.classes
+Bundle-Version: 1.0.0
+Export-Package: com.softwaresavvyblog.command.classes.constants
