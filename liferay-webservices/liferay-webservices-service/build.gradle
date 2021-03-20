@@ -1,0 +1,20 @@
+dependencies {
+	compile project(":modules:liferay-webservices:liferay-webservices-api")
+
+	compileOnly group: "com.liferay.portal", name: "release.portal.api"
+}
+
+buildService {
+	apiDir = "../liferay-webservices-api/src/main/java"
+	databaseNameMaxLength=100
+}
+
+group = "com.softwaresavvyblog.liferay.webservices"
+
+tasks.withType(JavaCompile) {
+
+	// Generated classes using Jodd library are unable to be read when compiled against JDK 11
+
+	sourceCompatibility = JavaVersion.VERSION_1_8
+	targetCompatibility = JavaVersion.VERSION_1_8
+}

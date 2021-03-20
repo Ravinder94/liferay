@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+
+<model-hints>
+	<model name="com.softwaresavvyblog.liferay.webservices.model.Employee">
+		<field name="uuid" type="String" />
+		<field name="empId" type="long" />
+		<field name="empName" type="String" />
+	</model>
+</model-hints>

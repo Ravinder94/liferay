@@ -1,0 +1,10 @@
+Bundle-Name: liferay-webservices-api
+Bundle-SymbolicName: com.softwaresavvyblog.liferay.webservices.api
+Bundle-Version: 1.0.0
+Export-Package:\
+	com.softwaresavvyblog.liferay.webservices.exception,\
+	com.softwaresavvyblog.liferay.webservices.model,\
+	com.softwaresavvyblog.liferay.webservices.service,\
+	com.softwaresavvyblog.liferay.webservices.service.persistence
+-check: EXPORTS
+-includeresource: META-INF/service.xml=../liferay-webservices-service/service.xml
