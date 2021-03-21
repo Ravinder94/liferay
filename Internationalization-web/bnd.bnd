@@ -1,0 +1,4 @@
+Bundle-Name: Internationalization-web
+Bundle-SymbolicName: Internationalization.web
+Bundle-Version: 1.0.0
+Export-Package: Internationalization.web.constants
