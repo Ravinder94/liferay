@@ -1,0 +1,5 @@
+Bundle-Name: liferay-calendar-schedulerjs-override
+Bundle-SymbolicName: liferay.calendar.schedulerjs.override
+Bundle-Version: 1.0.0
+Export-Package: liferay.calendar.schedulerjs.override.constants
+Liferay-Js-Config: /META-INF/resources/js/config.js
