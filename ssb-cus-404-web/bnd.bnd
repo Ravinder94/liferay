@@ -1,0 +1,4 @@
+Bundle-Name: ssb-cus-404-web
+Bundle-SymbolicName: com.softwaresavvyblog.layout
+Bundle-Version: 1.0.0
+Export-Package: com.softwaresavvyblog.layout.constants
