@@ -1,0 +1,4 @@
+Bundle-Name: ace-web
+Bundle-SymbolicName: com.mj.acec
+Bundle-Version: 1.0.0
+Export-Package: com.mj.acec.constants
