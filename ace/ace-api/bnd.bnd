@@ -1,0 +1,10 @@
+Bundle-Name: ace-api
+Bundle-SymbolicName: com.mx.ace.api
+Bundle-Version: 1.0.0
+Export-Package:\
+	com.mx.ace.exception,\
+	com.mx.ace.model,\
+	com.mx.ace.service,\
+	com.mx.ace.service.persistence
+-check: EXPORTS
+-includeresource: META-INF/service.xml=../ace-service/service.xml
