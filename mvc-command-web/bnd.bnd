@@ -1,0 +1,4 @@
+Bundle-Name: mvc-command-web
+Bundle-SymbolicName: com.mindmajix.mvccommand
+Bundle-Version: 1.0.0
+Export-Package: com.mindmajix.mvccommand.constants
