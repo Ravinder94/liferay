@@ -1,0 +1,4 @@
+Bundle-Name: namespace-web
+Bundle-SymbolicName: namespace.web
+Bundle-Version: 1.0.0
+Export-Package: namespace.web.constants
