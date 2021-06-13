@@ -1,0 +1,4 @@
+Bundle-Name: ipc-portlet-session-provider-web
+Bundle-SymbolicName: ipc.portlet.session.provider.web
+Bundle-Version: 1.0.0
+Export-Package: ipc.portlet.session.provider.web.constants
