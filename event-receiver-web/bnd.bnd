@@ -1,0 +1,4 @@
+Bundle-Name: event-receiver-web
+Bundle-SymbolicName: com.softwaresavvyblog.eventreceiver
+Bundle-Version: 1.0.0
+Export-Package: com.softwaresavvyblog.eventreceiver.constants
